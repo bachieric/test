@@ -1,16 +1,1 @@
-test
-main
-test
-main
-test
-main
-test
-main
-test
-main
-test
-main
-test
-main
-test
-main
+show main 
